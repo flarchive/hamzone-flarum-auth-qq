@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of hamzone/flarum-auth-qq.** Not for installation: use [Packagist](https://packagist.org/packages/hamzone/flarum-auth-qq) or the [upstream repository](https://github.com/HamZone/flarum-auth-qq).
 
-**0** versions archived · Latest: [`2.0.17`](https://github.com/flarchive/hamzone-flarum-auth-qq/tree/archive/v2.0.17) · License: `MIT` · Flarum: `*`
+**23** versions archived · Latest: [`2.0.17`](https://github.com/flarchive/hamzone-flarum-auth-qq/tree/archive/v2.0.17) · License: `MIT` · Flarum: `*`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2022-08-22 | `*` | [Browse](https://github.com/flarchive/hamzone-flarum-auth-qq/tree/archive/v1.0.0) |
+| `1.0.0.1` | 2022-08-22 | `*` | [Browse](https://github.com/flarchive/hamzone-flarum-auth-qq/tree/archive/v1.0.0.1) |
+| `1.0.0.2` | 2022-08-22 | `*` | [Browse](https://github.com/flarchive/hamzone-flarum-auth-qq/tree/archive/v1.0.0.2) |
+| `1.0.0.3` | 2022-08-22 | `*` | [Browse](https://github.com/flarchive/hamzone-flarum-auth-qq/tree/archive/v1.0.0.3) |
+| `1.0.0.4` | 2022-08-22 | `*` | [Browse](https://github.com/flarchive/hamzone-flarum-auth-qq/tree/archive/v1.0.0.4) |
+| `2.0.0` | 2022-08-22 | `*` | [Browse](https://github.com/flarchive/hamzone-flarum-auth-qq/tree/archive/v2.0.0) |
+| `2.0.1` | 2022-08-22 | `*` | [Browse](https://github.com/flarchive/hamzone-flarum-auth-qq/tree/archive/v2.0.1) |
+| `2.0.10` | 2022-08-22 | `*` | [Browse](https://github.com/flarchive/hamzone-flarum-auth-qq/tree/archive/v2.0.10) |
+| `2.0.11` | 2022-08-23 | `*` | [Browse](https://github.com/flarchive/hamzone-flarum-auth-qq/tree/archive/v2.0.11) |
+| `2.0.12` | 2022-08-23 | `*` | [Browse](https://github.com/flarchive/hamzone-flarum-auth-qq/tree/archive/v2.0.12) |
+
+[View all 23 versions](https://github.com/flarchive/hamzone-flarum-auth-qq/tags)
 
 Catalog entry: [packages/hamzone-flarum-auth-qq.json](https://github.com/flarchive/archive-index/blob/main/packages/hamzone-flarum-auth-qq.json)
 
